@@ -1,0 +1,6 @@
+D:\Projects\YamahaReceiverControl\YamahaAVLib\bin\Debug\YamahaAVLib.dll
+D:\Projects\YamahaReceiverControl\YamahaAVLib\bin\Debug\YamahaAVLib.pdb
+D:\Projects\YamahaReceiverControl\YamahaAVLib\obj\Debug\YamahaAVLib.csproj.CoreCompileInputs.cache
+D:\Projects\YamahaReceiverControl\YamahaAVLib\obj\Debug\YamahaAVLib.dll
+D:\Projects\YamahaReceiverControl\YamahaAVLib\obj\Debug\YamahaAVLib.pdb
+D:\Projects\YamahaReceiverControl\YamahaAVLib\obj\Debug\YamahaAVLib.csprojResolveAssemblyReference.cache

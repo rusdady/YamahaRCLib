@@ -1,0 +1,120 @@
+﻿namespace YamahaAVLib.ENums
+{
+    public enum CommandListFunctionType
+    {
+        UnitDescription,
+        //system
+        PutSystemEventNotice,
+        PutSystemPowerControl,
+        PutSystemNetworkName,
+        PutSystemNetworkStandby,
+        PutSystemDMCControl,
+        GetSystemEventNotice,
+        GetSystemNetworkName,
+        GetSystemNetworkStandby,
+        GetSystemUpdateAvailable,
+        GetSystemDMCControl,
+
+        //MainZone
+        PutMainZonePowerStatus,
+        PutMainZoneVolumeLevel,
+        PutMainZoneVolumeMute,
+        PutMainZoneInputSelection,
+        PutMainZoneConfigNameZone,
+        PutMainZoneSceneSelection,
+        PutMainZoneVideoSoundBass,
+        PutMainZoneVideoSoundTreble,
+        PutMainZoneSurroundSndProgram,
+        PutMainZoneSurroundStraight,
+        PutMainZoneSurroundEnhancer,
+        PutMainZoneVideoSoundAdaptDRC,
+        PutMainZoneSurround3DCinDSP,
+        PutMainZoneVideoSoundDialogueLift,
+        PutSystemVideoSoundHDMIPresetCurrent,
+        PutMainZoneVideoSoundDirectMode,
+        PutMainZoneListCursorControl,
+        PutMainZoneListMenuControl,
+        PutMainZonePowerSleepControl,
+        PutMainZonePlaybackControl,
+        GetMainZoneInputs,
+        GetMainZoneBasicStatus,
+        GetMainZoneConfig,
+        GetMainZoneScenes,
+
+        //Tuner
+        PutTunerPlayControlSearch,
+        PutTunerPlayControlPresetSelection,
+        PutTunerPlayControlTuningBand,
+        PutTunerPlayControlTuningFrequency,
+        PutTunerPlayControlAutoFrequency,
+        PutTunerPlayControlTuningFM,
+        PutTunerPlayControlTuningAM,
+        PutTunerPlayControlTuningFMvalue,
+        PutTunerPlayControlTuningAMvalue,
+        GetTunerPlayInfo,
+        GetTunerConfig,
+        GetTunerPresets,
+
+        //AirPlay
+        PutAirPlayPlaybackControl,
+        GetAirPlayInfo,
+        GetAirplayConfig,
+
+        //IPod
+        PutIPodPlaybackControl,
+        PutIPodListSelection,
+        PutIPodListJumpLine,
+        PutIPodListCursor,
+        PutIPodListPage,
+        PutIPodListOthers,
+        PutIPodPlayModeRepeat,
+        PutIPodPlayModeShuffle,
+        PutIPodPlayControlIPodeMode,
+        GetIPodPlayInfo,
+        GetIPodList,
+        GetIPodConfig,
+
+        //USB
+        PutUSBPlayModeRepeat,
+        PutUSBPlayModeShuffle,
+        PutUSBPlayback,
+        PutUSBPresetSelection,
+        PutUSBPlayDirect,
+        PutUSBListJumpLine,
+        PutUSBListCursor,
+        PutUSBListPage,
+        GetUSBPlayInfo,
+        GetUSBList,
+        GetUSBConfig,
+        GetUSBPresets,
+
+        //NETRadio
+        PutNETRadioPlayback,
+        PutNETRadioListDirectSelection,
+        PutNETRadioListJumpLine,
+        PutNETRadioListCursor,
+        PutNETRadioListPage,
+        PutNETRadioPresetSelection,
+        PutNETRadioListBookmark,
+        GetNETRadioPlayInfo,
+        GetNETRadioList,
+        GetNETRadioConfig,
+        GetNETRadioPresets,
+
+
+        //DLNA
+        PutDLNAPlayRepeat,
+        PutDLNAPlayShuffle,
+        PutDLNAPlaypack,
+        PutDLNAPlayPresetSelection,
+        PutDLNAListDirectSelection,
+        PutDLNAListJumpLine,
+        PutDLNAListCursor,
+        PutDLNAListPage,
+        PutDLNAPlayURI,
+        GetDLNAPlayInfo,
+        GetDLNAList,
+        GetDLNAConfig,
+        GetDLNAPresets
+    }
+}

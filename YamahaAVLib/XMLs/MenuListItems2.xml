@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<YAMAHA_AV rsp="GET" RC="0">
+  <USB>
+    <List_Info>
+      <Menu_Status>Ready</Menu_Status>
+      <Menu_Layer>2</Menu_Layer>
+      <Menu_Name>OSP Юмор</Menu_Name>
+      <Current_List>
+        <Line_1>
+          <Txt>ОСП Студия - 02 - Новый год.mp3</Txt>
+          <Attribute>Unplayable Item</Attribute>
+        </Line_1>
+        <Line_2>
+          <Txt>ОСП Студия - 03 - Девочка.mp3</Txt>
+          <Attribute>Item</Attribute>
+        </Line_2>
+        <Line_3>
+          <Txt>ОСП Студия - 04 - Гаврила.mp3</Txt>
+          <Attribute>Item</Attribute>
+        </Line_3>
+        <Line_4>
+          <Txt>ОСП Студия - 05 - Гребля.mp3</Txt>
+          <Attribute>Item</Attribute>
+        </Line_4>
+        <Line_5>
+          <Txt>ОСП Студия - 06 - Друг твой сделал ног</Txt>
+          <Attribute>Item</Attribute>
+        </Line_5>
+        <Line_6>
+          <Txt>ОСП Студия - 07 - Качка.mp3</Txt>
+          <Attribute>Item</Attribute>
+        </Line_6>
+        <Line_7>
+          <Txt>ОСП Студия - 08 - Какао.mp3</Txt>
+          <Attribute>Item</Attribute>
+        </Line_7>
+        <Line_8>
+          <Txt>ОСП Студия - 09 - Камушек.mp3</Txt>
+          <Attribute>Item</Attribute>
+        </Line_8>
+      </Current_List>
+      <Cursor_Position>
+        <Current_Line>1</Current_Line>
+        <Max_Line>22</Max_Line>
+      </Cursor_Position>
+    </List_Info>
+  </USB>
+</YAMAHA_AV>

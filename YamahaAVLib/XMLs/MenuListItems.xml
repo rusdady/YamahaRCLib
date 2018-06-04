@@ -1,0 +1,47 @@
+﻿<YAMAHA_AV rsp="GET" RC="0">
+  <USB>
+    <List_Info>
+      <Menu_Status>Ready</Menu_Status>
+      <Menu_Layer>1</Menu_Layer>
+      <Menu_Name>USB</Menu_Name>
+      <Current_List>
+        <Line_1>
+          <Txt>OSP Юмор</Txt>
+          <Attribute>Container</Attribute>
+        </Line_1>
+        <Line_2>
+          <Txt>System Volume Information</Txt>
+          <Attribute>Container</Attribute>
+        </Line_2>
+        <Line_3>
+          <Txt>Variety RU</Txt>
+          <Attribute>Container</Attribute>
+        </Line_3>
+        <Line_4>
+          <Txt></Txt>
+          <Attribute>Unselectable</Attribute>
+        </Line_4>
+        <Line_5>
+          <Txt></Txt>
+          <Attribute>Unselectable</Attribute>
+        </Line_5>
+        <Line_6>
+          <Txt></Txt>
+          <Attribute>Unselectable</Attribute>
+        </Line_6>
+        <Line_7>
+          <Txt></Txt>
+          <Attribute>Unselectable</Attribute>
+        </Line_7>
+        <Line_8>
+          <Txt></Txt>
+          <Attribute>Unselectable</Attribute>
+        </Line_8>
+      </Current_List>
+      <Cursor_Position>
+        <Current_Line>1</Current_Line>
+        <Max_Line>3</Max_Line>
+      </Cursor_Position>
+    </List_Info>
+  </USB>
+</YAMAHA_AV>
